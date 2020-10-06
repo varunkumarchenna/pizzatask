@@ -23,10 +23,10 @@
 
         <v-card-actions>
           <v-btn
-            color="orange lighten-2"
+            color="orange"
             nuxt
             to="/orders"
-            text
+            dark
           >
             Orders
           </v-btn>
